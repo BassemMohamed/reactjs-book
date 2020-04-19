@@ -1,30 +1,36 @@
-# reactjs-book
+# ReactJS book
 
-> Made with create-react-library
+<!--- These are examples. See https://shields.io --->
 
-[![NPM](https://img.shields.io/npm/v/reactjs-book.svg)](https://www.npmjs.com/package/reactjs-book) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+![GitHub repo size](https://img.shields.io/github/repo-size/bassemmohamed/react-book)
+[![GitHub contributors](https://img.shields.io/github/contributors/bassemmohamed/react-book)](https://github.com/BassemMohamed/react-book/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/bassemmohamed/react-book?style=social)](https://github.com/BassemMohamed/react-book/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bassemmohamed/react-book?style=social)](https://github.com/BassemMohamed/react-book/network/members)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bassemmohamed94?style=social)](https://twitter.com/BassemMohamed94)
 
-## Install
+### Personal ReactJS UI Library
 
-```bash
-npm install --save reactjs-book
-```
+This is my personal ReactJS UI component library built for my personal website at https://bassemmohamed.me, You can view the UI libarary at https://reactjs-book.netlify.com.
 
-## Usage
+## Prerequisites
 
-```jsx
-import React, { Component } from 'react'
+Before you begin, ensure you have met the following requirements:
 
-import MyComponent from 'reactjs-book'
-import 'reactjs-book/dist/index.css'
+- You have installed node
+- You have installed npm
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
-```
+## Installation
+
+To install, follow these steps:
+
+1. Clone the repo
+2. Open terminal in the project's folder
+3. run `npm install`
+
+## Contact
+
+If you want to contact me you can reach me at `bassemmohamed1994@gmail.com`.
 
 ## License
 
-MIT © [BassemMohamed](https://github.com/BassemMohamed)
+This project uses the following license: [GNU](https://choosealicense.com/licenses/gpl-3.0/).
