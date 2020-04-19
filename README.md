@@ -2,10 +2,10 @@
 
 <!--- These are examples. See https://shields.io --->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bassemmohamed/react-book)
-[![GitHub contributors](https://img.shields.io/github/contributors/bassemmohamed/react-book)](https://github.com/BassemMohamed/react-book/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/bassemmohamed/react-book?style=social)](https://github.com/BassemMohamed/react-book/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/bassemmohamed/react-book?style=social)](https://github.com/BassemMohamed/react-book/network/members)
+![GitHub repo size](https://img.shields.io/github/repo-size/bassemmohamed/reactjs-book)
+[![GitHub contributors](https://img.shields.io/github/contributors/bassemmohamed/reactjs-book)](https://github.com/BassemMohamed/reactjs-book/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/bassemmohamed/reactjs-book?style=social)](https://github.com/BassemMohamed/reactjs-book/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/bassemmohamed/reactjs-book?style=social)](https://github.com/BassemMohamed/reactjs-book/network/members)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bassemmohamed94?style=social)](https://twitter.com/BassemMohamed94)
 
 ### Personal ReactJS UI Library
