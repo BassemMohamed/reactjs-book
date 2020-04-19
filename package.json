@@ -15,7 +15,7 @@
     "start": "start-storybook -p 9009",
     "build-npm": "microbundle-crl --no-compress --format modern,cjs",
     "build-storybook": "build-storybook",
-    "prepublish": "run-s build",
+    "prepublish": "run-s build-npm",
     "test": "run-s test:unit test:lint test:build",
     "test:build": "run-s build",
     "test:lint": "eslint .",
